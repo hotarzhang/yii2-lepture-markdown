@@ -9,6 +9,7 @@
 	font-style: normal;
 }
 
+.lepture { border: 1px solid #D2D6DE}
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 .lepture [data-icon]:before {
 	font-family: 'icomoon' !important;
